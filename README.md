@@ -26,5 +26,5 @@ Software Used:
 ####
 
 ####
-Schematic Diagram
+### Schematic Diagram
 ![Schematic Diagram](https://imgur.com/8TtPSG4.png)
