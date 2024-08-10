@@ -1,4 +1,4 @@
-#EcoTech: A Reverse Vending Machine
+<h1>EcoTech: A Reverse Vending Machine</h1>h1>
 This repository contains all the source code, including the Arduino Files, object detection, and the database used in the project, Ecotech: Reverse Vending Machine. The Reverse Vending Machine specializes in detecting plastic bottles and aluminum cans. The bottles inserted are saved as credit points in the user's ID card, which can be exchanged for school supplies. The Reverse Vending Machine is deployed in a school setting.
 
 ####
