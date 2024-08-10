@@ -28,3 +28,11 @@ Software Used:
 ####
 ### Schematic Diagram
 ![Schematic Diagram](https://imgur.com/8TtPSG4.png)
+
+####
+### Example Output
+![Example Output](https://imgur.com/1FTIs5b.png)
+
+####
+### Prototype Design
+![Example Output](https://i.imgur.com/IUPy8pV.png)
